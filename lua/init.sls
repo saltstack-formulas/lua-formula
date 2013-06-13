@@ -1,0 +1,2 @@
+lua:
+  pkg.installed
